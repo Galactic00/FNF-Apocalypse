@@ -7,4 +7,4 @@ manifest/week3.json
 manifest/week4.json
 manifest/week5.json
 manifest/week6.json
-PsychEngine.exe
+Apocalypse.exe
