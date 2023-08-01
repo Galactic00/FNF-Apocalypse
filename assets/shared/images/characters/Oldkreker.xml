@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Oldkreker.png">
+<TextureAtlas imagePath="OldKreker.png">
 <SubTexture name="kreker idle0000" x="602" y="594" width="393" height="414" frameX="-434" frameY="-302" frameWidth="1280" frameHeight="720" />
 <SubTexture name="kreker idle0001" x="602" y="594" width="393" height="414" frameX="-434" frameY="-302" frameWidth="1280" frameHeight="720" />
 <SubTexture name="kreker idle0002" x="995" y="594" width="396" height="414" frameX="-433" frameY="-302" frameWidth="1280" frameHeight="720" />
