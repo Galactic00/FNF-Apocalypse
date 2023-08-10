@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "allyway",
+		"player1": "kreco",
+		"player2": "clone-kreker",
+		"player3": null,
+		"events": [
+			[
+				63030.3030303031,
+				[
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120824.242424243,
+				[
+					[
+						"Checkpoint",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"skipCountdown": null,
+		"gfVersion": "gf",
+		"bpm": 198,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bloodgurst Beta"
+	}
+}

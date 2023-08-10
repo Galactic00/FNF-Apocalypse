@@ -1,0 +1,89 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Kreker",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bloodgurst Beta",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bloodgurst",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Traffik Jamb",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Unedibol",
+			"kreker",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Booze",
+			"kreker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"BumBumE",
+			"kreker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Shmore",
+			"kreker",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

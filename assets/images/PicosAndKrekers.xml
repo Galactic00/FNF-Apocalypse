@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PicosAndKrekers.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 120000" x="0" y="0" width="2243" height="1393" pivotX="-1251.35" pivotY="-557.35"/>
+</TextureAtlas>

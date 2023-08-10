@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cautionLines_Loading.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Caution Lines0000" x="0" y="0" width="7665" height="374" pivotX="4899" pivotY="38" frameX="-4160" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0001" x="0" y="374" width="7665" height="374" frameX="-4073" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0002" x="0" y="748" width="7665" height="374" frameX="-3986" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0003" x="0" y="0" width="7665" height="374" frameX="-3900" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0004" x="0" y="1122" width="7665" height="374" frameX="-3813" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0005" x="0" y="1496" width="7665" height="374" frameX="-3726" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0006" x="0" y="374" width="7665" height="374" frameX="-3640" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0007" x="0" y="1870" width="7666" height="374" frameX="-3553" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0008" x="0" y="0" width="7665" height="374" frameX="-3466" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0009" x="0" y="374" width="7665" height="374" frameX="-3380" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0010" x="0" y="2244" width="7666" height="374" frameX="-3293" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0011" x="0" y="0" width="7665" height="374" frameX="-3206" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0012" x="0" y="374" width="7665" height="374" frameX="-3120" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0013" x="0" y="2618" width="7666" height="374" frameX="-3033" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0014" x="0" y="2992" width="7666" height="374" frameX="-2946" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0015" x="0" y="1870" width="7666" height="374" frameX="-2860" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0016" x="0" y="0" width="7665" height="374" frameX="-2773" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0017" x="0" y="3366" width="7666" height="374" frameX="-2686" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0018" x="0" y="3740" width="7665" height="374" frameX="-2600" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0019" x="0" y="0" width="7665" height="374" frameX="-2513" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0020" x="0" y="374" width="7665" height="374" frameX="-2427" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0021" x="0" y="2618" width="7666" height="374" frameX="-2340" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0022" x="0" y="4114" width="7666" height="374" frameX="-2253" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0023" x="0" y="4488" width="7665" height="374" frameX="-2167" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0024" x="0" y="0" width="7665" height="374" frameX="-2080" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0025" x="0" y="374" width="7665" height="374" frameX="-1993" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0026" x="0" y="3740" width="7665" height="374" frameX="-1907" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0027" x="0" y="4114" width="7666" height="374" frameX="-1820" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0028" x="0" y="4488" width="7665" height="374" frameX="-1733" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0029" x="0" y="1496" width="7665" height="374" frameX="-1647" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0030" x="0" y="4114" width="7666" height="374" frameX="-1560" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0031" x="0" y="3740" width="7665" height="374" frameX="-1474" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0032" x="0" y="4114" width="7666" height="374" frameX="-1387" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0033" x="0" y="3366" width="7666" height="374" frameX="-1300" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0034" x="0" y="2244" width="7666" height="374" frameX="-1214" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0035" x="0" y="4114" width="7666" height="374" frameX="-1127" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0036" x="0" y="1122" width="7665" height="374" frameX="-1040" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0037" x="0" y="4862" width="7665" height="374" frameX="-954" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0038" x="0" y="2992" width="7666" height="374" frameX="-867" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0039" x="0" y="4488" width="7665" height="374" frameX="-780" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0040" x="0" y="2992" width="7666" height="374" frameX="-694" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0041" x="0" y="3366" width="7666" height="374" frameX="-607" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0042" x="0" y="2244" width="7666" height="374" frameX="-520" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0043" x="0" y="0" width="7665" height="374" frameX="-434" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0044" x="0" y="374" width="7665" height="374" frameX="-347" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0045" x="0" y="1496" width="7665" height="374" frameX="-260" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0046" x="0" y="4114" width="7666" height="374" frameX="-174" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0047" x="0" y="4488" width="7665" height="374" frameX="-87" frameY="0" frameWidth="11825" frameHeight="374"/>
+	<SubTexture name="Caution Lines0048" x="0" y="0" width="7665" height="374" frameX="0" frameY="0" frameWidth="11825" frameHeight="374"/>
+</TextureAtlas>

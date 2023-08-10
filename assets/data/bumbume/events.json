@@ -1,0 +1,185 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "stage",
+		"player1": "clone-kreker",
+		"player2": "ourple-kreker",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Flash",
+						"1",
+						"white"
+					],
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.8"
+					],
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.8"
+					]
+				]
+			],
+			[
+				1297.2972972973,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.7"
+					]
+				]
+			],
+			[
+				3081.08108108108,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.9"
+					]
+				]
+			],
+			[
+				5545.94594594595,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"1"
+					],
+					[
+						"Flash",
+						"1",
+						"white"
+					]
+				]
+			],
+			[
+				6891.89189189189,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.7"
+					]
+				]
+			],
+			[
+				8432.43243243243,
+				[
+					[
+						"Fade Tween",
+						"0.8",
+						"0.3"
+					],
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					]
+				]
+			],
+			[
+				8918.91891891892,
+				[
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					],
+					[
+						"Fade Tween",
+						"0.5",
+						"0.1"
+					]
+				]
+			],
+			[
+				9405.40540540541,
+				[
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					],
+					[
+						"Fade Tween",
+						"0.3",
+						"0.1"
+					]
+				]
+			],
+			[
+				9972.97297297297,
+				[
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					],
+					[
+						"Fade Tween",
+						"0.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				10459.4594594595,
+				[
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					],
+					[
+						"Fade Tween",
+						"0.1",
+						"0.1"
+					],
+					[
+						"Camera Rotate",
+						"0.1",
+						"180"
+					]
+				]
+			],
+			[
+				10864.8648648649,
+				[
+					[
+						"Add Camera Zoom",
+						"0.200",
+						""
+					],
+					[
+						"Fade Tween",
+						"0",
+						"0.1"
+					],
+					[
+						"Camera Rotate",
+						"0.1",
+						"360"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"skipCountdown": false,
+		"gfVersion": "clone-kreker",
+		"bpm": 185,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "bumbume"
+	}
+}
